@@ -1,0 +1,6 @@
+*.class
+*.db-journal
+out/
+bin/
+.vscode/
+.idea/
