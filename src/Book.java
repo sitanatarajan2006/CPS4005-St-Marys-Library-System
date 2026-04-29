@@ -13,7 +13,7 @@ public class Book {
         this.category = category;
     this.availabilityStatus = availabilityStatus;
     }
-    public int getBookId() {
+    public int getBookId()
     return bookId;
 }
 
@@ -26,4 +26,7 @@ public String getAuthor() {
 
 public String getCategory() {
     return category;
+}
+public String getAvailabilityStatus() {
+    return availabilityStatus;
 }
