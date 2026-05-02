@@ -4,3 +4,4 @@ public class TestBookDAO {
         BookDAO bookDAO = new BookDAO();
     }
 }
+Book book = new Book(0, "Test Book", "Sita", "Programming", "Available");
